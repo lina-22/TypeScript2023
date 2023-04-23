@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lina-22/TypeScript2023.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lina-22/TypeScript2023/issues"
+  },
+  "homepage": "https://github.com/lina-22/TypeScript2023#readme",
   "devDependencies": {
     "typescript": "^5.0.4"
   }
